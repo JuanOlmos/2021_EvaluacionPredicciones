@@ -1,0 +1,7 @@
+﻿Optimizador;Adam
+Layers;3
+Activacion;Relu
+Learning rate;0.01
+Número de pesos;1569
+Tamaño de ventana;30
+Batch;200

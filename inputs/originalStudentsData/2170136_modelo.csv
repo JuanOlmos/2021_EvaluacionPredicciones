@@ -1,0 +1,5 @@
+,training parameters,layers,batches,optimization function,window size considered
+0,16449,"1. Capa de entrada de 128 neuronas, con activación relu e input_shape de 30. 
+2. Capa oculta de 64 neuronas, con activación relu, kernel_initializer y bias_initializer con 'he_uniform'. 
+3. Capa oculta de 64 neuronas, con activación relu, kernel_initializer y bias_initializer con 'he_uniform'. 
+4. Capa de salida de 1 neurona.",32,Adam,30

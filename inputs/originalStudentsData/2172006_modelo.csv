@@ -1,0 +1,5 @@
+Training Parameters,Layers,Batches,Optimization function,Window size,Data split,Epochs
+14337,"Dense(128, relu)",,Adam(lr=0.001),30,80% train,150
+,"Dense(64, relu)",,,,20% test,
+,"Dense(32,relu)",,,,,
+,Dense(1),,,,,

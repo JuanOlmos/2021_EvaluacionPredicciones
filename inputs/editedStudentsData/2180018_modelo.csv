@@ -1,0 +1,2 @@
+﻿training parameteres; layers; batches; optimization function; window size considered; other descriptions
+2577;5;1;Adam;21;All layers power of 2 neurons with relu activation
